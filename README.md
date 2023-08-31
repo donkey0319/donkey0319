@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Lu
-- 🌱 Sophomore in Electrical Engineering and minoring Computer Science in UIUC
-- 💞️ Interested in Game Development (Unity, Godot), 3D Modeling (Blender), and arts (Procreate)!
+- 🌱 Junior in Computer Engineering and minoring Art and Design in UIUC
+- 💞️ Passionate in Game Development (Unity, Unreal Engine 5, Godot), 3D Modeling (Blender, Adobe Substance Painter), and arts (Procreate)!
 - 📫 Contact Information:
     email: vclu2@illinois.edu
 
